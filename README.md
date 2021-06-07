@@ -19,6 +19,10 @@ I've seen other packages out there that try to accompish a goal similar to this 
 #### Using Composer
 
 ```
+composer require ahfa92/laravel-relation-joins
+```
+DISCLAIMER: THIS PACKAGE ONLY FOR FAST PATCHING IF YOU WANT TO HAVE STABLE PACKAGE USE COMPOSER PACKAGE BELOW!!!
+```
 composer require reedware/laravel-relation-joins
 ```
 
